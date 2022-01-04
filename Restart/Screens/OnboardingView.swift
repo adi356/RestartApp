@@ -4,7 +4,7 @@
 //
 //  Created by Andrew Irvine on 11/4/21.
 
-//To test haptics added in this view need to do it on a physical device and turn on "system haptics" in Settings> Sounds & Haptics> System Haptics
+//To test haptic feedback added in this view need to do it on a physical device and turn on "system haptics" in Settings> Sounds & Haptics> System Haptics
 
 import SwiftUI
 
